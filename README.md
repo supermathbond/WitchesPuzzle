@@ -7,7 +7,7 @@ For those of you which don't know what is the witches puzzle see image below:
 The main idea is to omplete the puzzle in a way that all witches in the middle of the puzzle are completed (head must be connected to the same tail color).
 
 As you may calculate there are tons of options to try, in specific: 9! * (4 ^ 9)
-So, Iwas lazy and decided to dedicate two hours for creating the code instead of solving the real puzzle...
+I was lazy and decided to dedicate two hours for creating the code instead of solving the real puzzle...
 
 At the current configuration there are 8 possible solutions. You can change the cards configuration as you want.
 In addition, I ran it in debug, hence, I didn't need a graphic output, feel free to add it if you liked the solution.
