@@ -1,0 +1,6 @@
+c:\users\anonymous\documents\visual studio 2015\Projects\WitchesPuzzle\WitchesPuzzle\bin\Debug\WitchesPuzzle.exe.config
+c:\users\anonymous\documents\visual studio 2015\Projects\WitchesPuzzle\WitchesPuzzle\bin\Debug\WitchesPuzzle.exe
+c:\users\anonymous\documents\visual studio 2015\Projects\WitchesPuzzle\WitchesPuzzle\bin\Debug\WitchesPuzzle.pdb
+c:\users\anonymous\documents\visual studio 2015\Projects\WitchesPuzzle\WitchesPuzzle\obj\Debug\WitchesPuzzle.csprojResolveAssemblyReference.cache
+c:\users\anonymous\documents\visual studio 2015\Projects\WitchesPuzzle\WitchesPuzzle\obj\Debug\WitchesPuzzle.exe
+c:\users\anonymous\documents\visual studio 2015\Projects\WitchesPuzzle\WitchesPuzzle\obj\Debug\WitchesPuzzle.pdb
