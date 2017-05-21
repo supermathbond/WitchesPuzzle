@@ -13,6 +13,7 @@ At the current configuration there are 8 possible solutions. You can change the 
 In addition, I ran it in debug, hence, I didn't need a graphic output, feel free to add it if you liked the solution.
 
 In code I called:
-  * The 3x3 matrix "Board".
+  * The 3x3 matrix --> "Board".
   * Each piece is called WitchCard.
+  
 The rest is simple clean code...
