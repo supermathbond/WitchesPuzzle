@@ -1,4 +1,4 @@
-﻿namespace WitchesPuzzle
+namespace WitchesPuzzle
 {
     public class Board
     {
@@ -14,13 +14,13 @@
 
         public void RemoveLastCardFromBoard()
         {
-            board[_currentX, _currentY] = null;
             _currentX--;
             if (_currentX < 0)
             {
                 _currentX = board.GetLength(0) - 1;
                 _currentY--;
             }
+            board[_currentX, _currentY] = null;
         }
 
         public bool IsBoardCompleted()
